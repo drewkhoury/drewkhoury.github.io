@@ -1,39 +1,14 @@
-## Welcome to GitHub Pages
+## Hi, I'm Andrew Khoury ([drew](https://www.drewkhoury.com/drew/))
 
-Testing.
+I post blogs on [thought leadership on Good Software Delivery, cloud and automation](https://www.drewkhoury.com/).
 
-You can use the [editor on GitHub](https://github.com/drewkhoury/drewkhoury.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a Technical Principal at Contino, advocate for Business Value, Lean, Cloud, Automation, DevOps, Containers, and data-driven decisions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![](https://www.drewkhoury.com/images/drew-smaller-2.png)
 
-### Markdown
+Learn more about [Good Software Delivery (GSD) ](https://www.drewkhoury.com/categories/gsd/)- The set of practices that help deliver good software:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [How to implement Good Software Delivery](https://www.drewkhoury.com/post/gsd/how-to-implement-good-software-delivery-in-30-seconds-72d13ad4a296/)
+- [Good Software Delivery - Trust and Verify](https://www.drewkhoury.com/post/gsd/good-software-delivery-trust-and-verify-ced74fa04b39/)
+- [Enable Cloud Transformation at scale through Good Software Delivery](https://www.drewkhoury.com/post/gsd/how-cloud-transformation-at-scale-can-enable-good-software-delivery-4a6645d4c570/)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/drewkhoury/drewkhoury.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
